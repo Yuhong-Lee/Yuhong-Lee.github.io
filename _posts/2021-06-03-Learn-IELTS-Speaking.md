@@ -6,7 +6,7 @@ categories: [IELTS]
 tags: [IELTS, Speaking]
 author: Lee
 redirect_from:
-  - /2021/06/03/
+  - /2021/06/03/1
 ---
 
 # Learn in Class
