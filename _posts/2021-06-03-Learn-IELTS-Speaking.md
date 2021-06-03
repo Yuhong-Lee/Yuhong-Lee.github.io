@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IELTS Note: Speaking 1"
+title: "IELTS Note: Speaking 1-Lesson 0"
 description: "Introduce The Speaking Exam of IELTS"
 categories: [IELTS]
 tags: [IELTS, Speaking]
