@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IELTS Note: Speaking 1-Lesson 1"
-aurhor: Lee
+author: Lee
 description: "Introduce The first part and the education topic of IELTS Speaking Exam"
 categories: [IELTS]
 tags: [IELTS, Speaking]
