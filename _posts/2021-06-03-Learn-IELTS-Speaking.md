@@ -4,6 +4,7 @@ title: "IELTS Note: Speaking 1"
 description: "Introduce The Speaking Exam of IELTS"
 categories: [IELTS]
 tags: [IELTS, Speaking]
+author: Lee
 redirect_from:
   - /2021/06/03/
 ---
