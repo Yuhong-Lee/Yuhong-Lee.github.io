@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "IELTS Note: Listening 1-Lesson 0"
-description: "Introduce The Listening Exam of IELTS"
+title: "Big Data -- 离线数据仓库项目概览"
+description: "对于离线数据仓库的总结"
 categories: [Big-Data]
 tags: [Big-data, Data-Warehouse]
 author: Lee
