@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "IELTS Note: Training for Writting, Task 1"
-description: "Training for Writting Task 1"
+title: "IELTS Note: Reading 1-lesson 1"
+description: "The first class of Reading"
 categories: [IELTS]
-tags: [IELTS, Speakinhg]
+tags: [IELTS, Reading]
 redirect_from:
   - /2021/06/05/
 ---
