@@ -14,7 +14,7 @@ redirect_from:
 
 Five Points can be discussed:
 
-    1. Required/ compussery subject (Math or some major)
+    1. Required/ compulsory subject (Math or some major)
     2. Form the basics of = lay a solid foundation for 
     3. be widely used in other realms
     4. solve problem = problem-soving ability || ability for feeling
