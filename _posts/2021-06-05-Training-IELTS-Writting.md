@@ -70,4 +70,4 @@ There are four pie diagrams were used to illustrate the information of the struc
 
 ### Test 3
 
-
+The curve diagram which was reported(published) in 2008 illustrate the data about the cost of energy which is produced by six kinds of resource from 1980 to 2008 and  the predict value (curve,situation) of it from 2008 to 2030.
