@@ -86,7 +86,7 @@ redirect_from:
 73. ** reception -- 接待会
 74. goal -- 目标
 75. tape -- 磁带
-76. vedio -- 录像
+76. ~~vedio~~ video -- 录像
 77. plus -- 加
 78. level -- 水平
 79. beginning -- 开始，初级
@@ -114,7 +114,7 @@ redirect_from:
 101. ** dropout -- 错学
 102. ** crammming -- 填鸭式教学
 103. ** feedback -- 反馈
-104. ** vediotape -- 录像带 
+104. ** videotape -- 录像带 
 105. ** hit -- 技巧
 106. ** examination -- 考试
 107. -- diploma -- 证书
