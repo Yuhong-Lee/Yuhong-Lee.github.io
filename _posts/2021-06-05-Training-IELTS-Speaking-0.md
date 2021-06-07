@@ -28,7 +28,7 @@ redirect_from:
 11. make different kinds of movements 做各种动作
 12. traffic jam 交通阻塞
 
-## Topic 3 : Hometown
+## Topic 3 : Hometown and accommodation
 
 ### Words can be used for this topic 
 1. Special 
