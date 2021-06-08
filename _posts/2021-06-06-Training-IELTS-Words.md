@@ -188,7 +188,7 @@ redirect_from:
     con**fin**e 限制
 74. refine 精炼
 75. orientation 新生入学教育会
-76. curriculum 课程
+76.  curriculum 课程
 77.  session 课程，时间
 78.  virtual 虚拟的
 79.  ~~entensive~~ intensive 强化的
