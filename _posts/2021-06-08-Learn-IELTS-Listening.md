@@ -6,7 +6,7 @@ categories: [IELTS]
 tags: [IELTS, Listening]
 author: Lee
 redirect_from:
-  - /2021/06/04
+  - /2021/06/08/
 ---
 ## Words
 1. plate  盘子
