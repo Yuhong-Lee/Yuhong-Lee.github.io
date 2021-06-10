@@ -8,6 +8,11 @@ author: Lee
 redirect_from:
   - /2021/06/08/
 ---
+## Note
+
+1. 注意听有明显强调意味的词
+2. 地图题先标记东南西北
+
 ## Words
 1. plate  盘子
 2. rubbish  垃圾
