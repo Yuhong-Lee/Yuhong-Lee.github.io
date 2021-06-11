@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Part 1
 
-## Topic 1 : Word or Study
+## Topic 1 : Work or Study
 
 ## Topic 2 : Home and accomodation
 

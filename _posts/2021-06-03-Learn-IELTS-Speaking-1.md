@@ -178,3 +178,5 @@ Three Points can be discussed:
     amy has to get the report finished by tomorrow so she’ll be burning the midnight oil tonight. 由于明天是amy交报告的最后期限，今晚她必须要熬夜工作了
 
 55. study intensively 高强度学习
+
+From my appointment 
