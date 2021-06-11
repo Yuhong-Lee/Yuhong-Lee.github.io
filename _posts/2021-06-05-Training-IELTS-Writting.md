@@ -59,6 +59,7 @@ redirect_from:
     1.  并列顺承: also,besides,inaddition,additionally,and then
     2.  转折: however,conversely,whereas,nevertheless,but
 ## 小作文首段练习 - C 9
+1. 小作文首段尽量精简
 
 ### Test 1 
 

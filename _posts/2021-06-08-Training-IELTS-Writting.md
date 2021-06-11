@@ -41,8 +41,15 @@ redirect_from:
 ## 改写 C10
 
 ### Test 1
-There are two pie diagrams about Australia family were listed. One is used to ~~illstrate~~ illustrate the structure of the consumption of energy with average value. Another is for the proportion of the greengouse gas which is produced by several ways.
+There are two pie diagrams about Australia family were listed. One is used to ~~illstrate~~ illustrate the structure of the consumption of energy with average value and Another is for the proportion of the greengouse gas which is produced by several ways.
+**new** the energy use in different electric devices as well as their discharged gas production from them in every Australian family 
+**new** the two pies respectively compare 
 ### Test 2
-A ~~compareation~~ comparison of coffee and bananas with the label of Fairtrabe which were consumed by five countries in European in 1999 and 2004 is illustrated by two pie diagrams. 
+A ~~compareation~~ comparison of coffee and bananas with the label of Fairtrabe which were concumed by the consumers from five countries in Europe in 1999 and 2004 is illustrated in two pie diagrams. 
 ### Test 3
-There are two bar diagrams were used to illustrate the situation of the employment ~~which without the data of full-time job~~ for the students who get the diploma of bachelors and the masters but have not gotten full-time job in 2008.
+There are two bar diagrams were used to illustrate the situation of the employment ,excluding full-time work,~~which without the data of full-time job~~ ~~for the students who get the diploma of bachelors and the masters~~ for graduates and postgraduates in UK in 2008.
+
+status
+
+**new** 
+here are two bar diagrams were used to illustrate the situation of the employment ,excluding full-time work, for graduates and postgraduates in UK in 2008.
