@@ -79,7 +79,7 @@ redirect_from:
     
     arch - 政府，统治
 
-    1. **arch**biship 大主教
+    1. **arch**bishop 大主教
     2. **arch**diocese 大主教辖区
 
     tect - builder 建造（者）

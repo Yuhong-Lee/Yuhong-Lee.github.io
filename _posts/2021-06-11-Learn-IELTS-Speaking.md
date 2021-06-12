@@ -9,6 +9,9 @@ redirect_from:
   - /2021/06/11
 ---
 # Notes
+## Topic: Health and Fitness
+
+
 
 第二部分，使对话具有情感性
 
@@ -32,17 +35,17 @@ sparing use of energy reserves should tend to extend life. 减少对于能量积
 
 people generally believe that women are more health-conscious than men. 人们普遍认为女性要比男性更关注健康。 
 
-5. an exercise regimen 健身计划
+5. an exercise **regimen** 健身计划
 
 The doctors recommend that they continue their exercise regimen. 医生建议他们继续他们的健身计划。 
 
 6. an allergy to sth 对某种物质的过敏
 
-7. restrain from doing sth 克制自己不去做某事
+7. **restrain** from doing sth 克制自己不去做某事
 
 in Britain, people are asked to restrain from smoking in a range of public places. 在英国，人们被禁止在一些公共场所吸烟。 
 
-8. immunize sb against sth. 注射疫苗
+8. **immunize** sb against sth. 注射疫苗
 
 some people argue that parents have an obligation to immunize their children against common childhood diseases. 一些人争论说家长应该有义务让孩子通过注射疫苗来预防一些常见的儿童病。 
 
@@ -54,11 +57,11 @@ eating fresh vegetable is a natural way of boosting our immune system. 多吃新
 
 a student who requires medical treatment has lost his/ her travel insurance card. 一个需要治疗的学生遗失了他／她的旅行保险卡。 
 
-11. a sedentary job 需要久坐的工作
+11. a **sedentary** job 需要久坐的工作
 
 overweight people whose work is sedentary will find it much harder to lose weight. 那些每天工作需要久坐的超重人群会发现减肥真是件困难事儿。
 
-12. eye strain 眼睛疲劳
+12. eye **strain** 眼睛疲劳
 
 more than 70 percent of computer users have experienced eye strain. 超过70%的电脑使用者有过眼睛疲劳的体验。 
 
@@ -74,7 +77,7 @@ playing sports will increase your muscle strength. 多参加体育运动可以�
 
 i felt so refreshed after my holiday. 在我的假期之后，我感觉整个人焕然一新。 
 
-16. feel invigorated 感觉经历很充沛的
+16. feel **invigorated** 感觉经历很充沛的
 
 17. has taken its toll on one’s health （某事物）对某事物的健康造成了伤害
 
@@ -86,17 +89,17 @@ i felt so refreshed after my holiday. 在我的假期之后，我感觉整个人
 
 students will have to take out insurance to cover the costs of all visits to doctors and other non-emergency medical situations. 学生必须购买保险来覆盖就诊或其他非急救的医疗费用。
 
-20. contract a disease 患某种疾病
+20. **contract** a disease 患某种疾病
 
 he contracted the disease while he was traveling. 他在旅行的时候患上了这种疾病。
 
-21. remedy 小疾患的治疗方法（cure则可以用来指任何疾病的疗法）
+21. **remedy** 小疾患的治疗方法（cure则可以用来指任何疾病的疗法）
 
-22. feel under the weather 身体不适
+22. feel under the **weather** 身体不适
 
 i am feeling a little under the weather—i guess i have caught a cold. 我感觉有点不舒服－－我想我是感冒了。
 
-23. high cholesterol 高胆固醇
+23. high **cholesterol** 高胆固醇
 
 a high cholesterol level may put a person at risk of a heart attack or stroke. 高胆固醇会使人更易患心脏病。 
 
@@ -104,11 +107,11 @@ a high cholesterol level may put a person at risk of a heart attack or stroke. �
 
 25. hale and hearty (老年人)身体很健康
 
-26. as fit as a fiddle＝be in perfect health 很健康的
+26. as fit as a **fiddle**＝be in perfect health 很健康的
 
 my dad’s nearly eighty now but he is still as fit as a fiddle. 我父亲已经将近80岁了，但是他还是非常健壮的。
 
-27. be deficient in… (食物等)缺乏某种营养
+27. be **deficient** in… (食物等)缺乏某种营养
 
 these children tend to eat food that is deficient in iron. 这些孩子吃的食物会导致他们体内缺铁。 
 
