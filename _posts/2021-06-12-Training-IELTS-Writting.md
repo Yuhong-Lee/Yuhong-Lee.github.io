@@ -23,7 +23,18 @@ Interestingly, the tendency of the line about the overseas tourists who think th
 
 Interestingly, the tendency ~~of the line~~ about the overseas tourists who ~~think~~ enjoyed the lake ~~is the best choice~~ for visiting ~~is rapidly rising~~ rapidly rose from 10 thousand in 1987, the lowest value in that year, to 75 thousand in 2002 as the maximum ~~of these three lines~~. However, from 2002,the highest point time, to 2007 ~~which is the end of the time of this line diagram~~, ~~it is decreasing~~ **decreased** as quickly as the rising before 2002. Because of the fast **ups and downs**, what is more, the number of travelers of lake **surpassed** it for mountains in 1992 and **overtook that of** coast as the most popular area in 10 years later. And then, for the remarkable decline, the data of **lake lovers went back** to the second area at the end of this figure.
 
+
+
 语法问题差不多改完了，但整体过于啰嗦，字数严重超标，需要精简
+
+
+
+第二段：
+
+The popularity of it waved between 20000 and 30000 in the first fiteen years. with some minors ups and downs before a ligh accent to approximately 35000 finally.
+
+
+小作文，精简中把信息带入进去，要把重点突出
 
 
 ## Test2
