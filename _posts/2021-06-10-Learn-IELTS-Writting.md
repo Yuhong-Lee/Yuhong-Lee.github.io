@@ -5,7 +5,8 @@ description: "Introduce the first task of the Writting exam and practice to rewr
 categories: [IELTS]
 tags: [IELTS, Writting]
 redirect_from:
-  - /2021/06/04/
+  - /2021/06/10
+  - /
 ---
 
 ## 对首段改写的总结

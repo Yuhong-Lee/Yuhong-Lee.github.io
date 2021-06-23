@@ -480,114 +480,156 @@ redirect_from:
 151. rubber 橡胶
 152. ~~compain~~ champion 冠军
 153. grams 克
-154. preservation 保存
-155. disorders 混乱
-156. cosmetics 化妆品
-157. ~~refechrater~~ refrigerator 冰箱
-158. ~~demanstression~~ demonstration
-159. hallway 走廊
-160. ~~mate~~ mite 螨虫
-161. ~~heavy~~ hive 蜂巢
-162. ~~personal~~ personnel 人员
-163. ~~nearve~~ nerve 神经
-164. deposit~~e~~ 押金
-165. ~~hot~~ pot 锅
-166. jewelry 珠宝
-167. minority 少数民族
-168. sightseeing 观光
-169. ~~composed~~ composers 作曲家
-170. ~~carben~~ carbin 小屋
-171. ~~callende~~ calendar 日历
-172. teapot 茶壶
-173. gloves 手套
-174. ~~neckless~~ becklace 响亮
-175. ~~nease~~ niece 侄女
-176. footwear 鞋子
-177. ~~compain~~ compaign 竞选
-178. fault 故障
-179. controlization
-180. slug 投币机的代用币
-181. ~~warms~~ worms 虫子
-182. snails 蜗牛
-183. ~~habtied~~ habitat 栖息地
-184. indicator 指示器
-185. ~~greed~~ grape 葡萄
-186. ~~denci~~ density 密度
-187. ~~exposed~~ sxposure 曝光
-188. insulation 绝缘
-189. ~~trees~~ trays 托盘
-190. firction 摩擦
-191. ~~aparien~~ apron 围裙
-192. ~~selli~~ celebrations
-193. pyramid 金字塔
-194. dolphin 海豚
-195. ~~soilders~~ soldiers 士兵
-196. comodtic commodity 商品
-197. ~~basing~~ basin 盆地
-198. ~~wilds~~ 鲸
-199. ~~upshens~~ absence 缺席
-200. ~~cobite~~ cupboard 橱柜
-201. ~~jouril~~ generalisation 概括性的
-202. exhibition 展览
-203. ~~phototing~~ voting 投票 
-204. ~~dialog~~ dialouge 对话
-205. regulator 调节器
-206. ~~harmer~~ hammer 锤子
-207. incubator 孵化器
-208. ~~quentity~~ quantity 量
-209. ~~reveals~~ rivals 竞争对手
-210. radio
-211. ~~jurm~~jam 果酱
-212. ~~shampo~~ shampoo 洗发水
-213. obesity 肥胖
-214. ~~congec~~ congestion 拥挤
-215. ~~catigro~~ categories 类别
-216. twilight 黄昏
-217. ~~windshifting~~ windsurfing 滑浪风帆
-218. qualification 资格
-219. ~~vine~~ van 厢式货车
-220. ~~responsebility~~ responsibility 责任
-221. authority 权威
-222. competitors 竞争对手
-223. ~~laber~~ labour 劳动
-224. camel 骆驼
-225. ~~spring~~ sprain 扭伤
-226. ~~asbring~~ aspirin 阿司匹林
-227. ~~creatic~~ critic 评论家
-228. biography 传记
-229. graffiti 涂鸦
-230. ~~statics~~ sticks 棒
-231. ~~beans~~ bins 垃圾箱
-232. ~~widing~~ wedding 婚礼
-233. ~~sornal~~ sauna 桑拿
-234. ~~documentrance~~ documentary 纪录片
-235. ~~hellmake~~ helmet 头盔
-236. ~~brounds~~ bronze 青铜
-237. ~~fercility~~ facilities 设施
-238. ~~calary~~ calorie 热量
-239. wallet 钱包
-240. dinnsaur 恐龙
-241. fossils 化石
-242. moa 恐鸟
-243. ~~recage~~ wrecage 残骸
-244. ~~invesment~~ investment 投资
-245. ~~totolis~~ tortoise 乌龟
-246. certificate 证书
-247. Cantonese 粤语
-248. ~~enterpeter~~ interpreter 口译人员
-249. purchase 购买
-250. ~~leature~~ literature 文学
-251. irrigation 灌溉
-252. ~~digre~~ degradation 降解
-253. ~~nuctrains~~ nutrient 营养
-254. ~~reotion~~ erosion 侵蚀
-255. ~~humility~~ humidity 湿度
-256. ~~contimeent~~ contaminants 污染物
-257. innocence 清白
-258. draft 手稿
-259. dictation 听写
-260. ~~ember~~ amber 湖泊
-261. ~~raising~~ resin
-262. fungi 真菌
-263. ~~rich~~ bridge 桥
-264. concrete 混凝土
+154. infect 感染
+     
+      disinfect 消毒
+
+155. preservation 保存
+156. disorders 混乱
+157. cosmetics 化妆品
+     
+      cosmetology 美容业
+
+      cosmeticaian 化妆师
+     
+158. ~~refechrater~~ refrigerator 冰箱
+159. ~~demanstression~~ demonstration 证明
+
+    demonstrate 说明，证明，示范
+
+    remonstrate 抗议，反对
+
+    monstrous 丑陋的，巨大的，骇人听闻的
+
+161. hallway 走廊
+162. ~~mate~~ mite 螨虫
+163. ~~heavy~~ hive 蜂巢
+164. ~~personal~~ personnel 人员
+165. ~~nearve~~ nerve 神经
+166. deposit~~e~~ 押金
+167. ~~hot~~ pot 锅
+168. jewelry 珠宝
+
+      jewel 珠宝，贵重的东西
+
+169. minority 少数民族
+170. sightseeing 观光
+171. ~~composed~~ composers 作曲家
+172. ~~carben~~ carbin 小屋
+173. ~~callende~~ calendar 日历
+174. teapot 茶壶
+175. gloves 手套
+176. ~~neckless~~ necklace 项链
+177. ~~nease~~ niece 侄女
+178. footwear 鞋子
+179. ~~compain~~ compaign 竞选
+180. fault 故障
+181. ~~controlization~~ centralization 集中
+      
+      center 中心
+
+      centr 表中心
+
+      **centr**ifuge 离心机
+
+      con**centra**te 集中
+
+      ec**centr**ic 古怪的（中心之外）
+
+182. slug 投币机的代用币
+183. ~~warms~~ worms 虫子
+184. snails 蜗牛
+185. ~~habtied~~ habitat 栖息地
+186. indicator 指示器
+
+      in**dic**ate 指示
+
+      dict 表讲话诉说
+
+      indict 控诉
+
+188. ~~greed~~ grape 葡萄
+189. ~~denci~~ density 密度
+190. ~~exposed~~ exposure 曝光
+191. insulation 绝缘
+
+      insulate 使绝缘
+
+193. ~~trees~~ trays 托盘
+194. firction 摩擦
+195. ~~aparien~~ apron 围裙
+196. ~~selli~~ celebrations 庆祝活动
+
+      celebrate 庆祝
+
+198. pyramid 金字塔
+199. dolphin 海豚
+200. ~~soilders~~ soldiers 士兵
+201. comodtic commodity 商品
+202. ~~basing~~ basin 盆地
+203. ~~wilds~~ whale 鲸
+204. ~~upshens~~ absence 缺席
+205. ~~cobite~~ cupboard 橱柜
+206. ~~jouril~~ generalisation 概括性的
+207. exhibition 展览
+208. ~~phototing~~ voting 投票 
+209. ~~dialog~~ dialouge 对话
+210. regulator 调节器
+211. ~~harmer~~ hammer 锤子
+212. incubator 孵化器
+213. ~~quentity~~ quantity 量
+214. ~~reveals~~ rivals 竞争对手
+215. ~~jurm~~jam 果酱
+216. ~~shampo~~ shampoo 洗发水
+217. obesity 肥胖
+218. ~~congec~~ congestion 拥挤
+219. ~~catigro~~ categories 类别
+220. twilight 黄昏
+221. ~~windshifting~~ windsurfing 滑浪风帆
+222. qualification 资格
+223. ~~vine~~ van 厢式货车
+224. ~~responsebility~~ responsibility 责任
+225. authority 权威
+226. competitors 竞争对手
+227. ~~laber~~ labour 劳动
+228. camel 骆驼
+229. ~~spring~~ sprain 扭伤
+230. ~~asbring~~ aspirin 阿司匹林
+231. ~~creatic~~ critic 评论家
+232. biography 传记
+233. graffiti 涂鸦
+234. ~~statics~~ sticks 棒
+235. ~~beans~~ bins 垃圾箱
+236. ~~widing~~ wedding 婚礼
+237. ~~sornal~~ sauna 桑拿
+238. ~~documentrance~~ documentary 纪录片
+239. ~~hellmake~~ helmet 头盔
+240. ~~brounds~~ bronze 青铜
+241. ~~fercility~~ facilities 设施
+242. ~~calary~~ calorie 热量
+243. wallet 钱包
+244. dinnsaur 恐龙
+245. fossils 化石
+246. moa 恐鸟
+247. ~~recage~~ wrecage 残骸
+248. ~~invesment~~ investment 投资
+250. ~~totolis~~ tortoise 乌龟
+251. certificate 证书
+252. Cantonese 粤语
+253. ~~enterpeter~~ interpreter 口译人员
+254. purchase 购买
+255. ~~leature~~ literature 文学
+256. irrigation 灌溉
+257. ~~digre~~ degradation 降解
+258. ~~nuctrains~~ nutrient 营养
+259. ~~reotion~~ erosion 侵蚀
+260. ~~humility~~ humidity 湿度
+261. ~~contimeent~~ contaminants 污染物
+262. innocence 清白
+263. draft 手稿
+264. dictation 听写
+265. ~~ember~~ amber 湖泊
+266. ~~raising~~ resin
+267. fungi 真菌
+268. ~~rich~~ bridge 桥
+269. concrete 混凝土
