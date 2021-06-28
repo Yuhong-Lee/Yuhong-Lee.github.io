@@ -11,6 +11,15 @@ redirect_from:
 # Notes
 ## Topic: Health and Fitness
 
+diets 伙食
+wholesome 健康的，健全的
+in fast-paced society 快节奏生活
+skip dinner
+take-out food 外卖
+food to go 打包食物
+be oily 油腻的
+have a great figure/ shape 有一个好的体型
+obesity 肥胖
 
 
 第二部分，使对话具有情感性
