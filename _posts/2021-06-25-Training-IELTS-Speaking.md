@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "IELTS Note: Writting 5-Lesson 0"
-description: "Introduce the 4th task of the Writting exam and practice to rewrite the paragraph"
+title: "IELTS Note: Writting 50"
+description: "A prepare for the "
 categories: [IELTS]
 tags: [IELTS, Writting]
 redirect_from:
   - /2021/06/25/
 ---
+
+
 1. Describe a famous person you are interested in 
 2. Describe a singer (or actor) you like 
 
@@ -18,7 +20,15 @@ He went from rags to riches for his talent in the music However he was dead in 2
 
 I like this man, i like his song and his personality 
 
-1. escribe a polite person you know
+------
 
+1. Describe a polite person you know
+2. Describe someone who is older than you that you admire
+3. Describe an interesting conversation
 
-
+I think that should be the supervisor of mine/ 
+I think it should be a discussion for me and my supervisor
+when I was the student in the university of Melborne . My major is the Information technology. It is a kind of study which is used to process the data. He is the professor of the algorithm and also is the supervisor for my final year project. A old man who is Gentle personality but rigorous at academics. (little fat but really full of energy) 
+During my guradation project, we had meetings with a regular schedule. 
+1. He is a strict teacher and extremly good at the study of his field. Therefore, he have a high requirement for my project which put me in a very stressful situation during the period of my final project. To be honest, I was nearly to be mad in that time because there were so many deadlines in a same time. All in all, all the things passed but a special memery. And I scinerely thank for his stict and admire to him. Without him, my final year project can not be as good as it should be 
+2. It is a meeting for the final draft of my paper, I had a misunderstanding for the data which did not meet the expection of mine. Because, in my opinion, my process is no problem, the result is correct. Buy my supervior disagree with me and belived that it is problem during the process. You know , an arguement was nearly coming. He said"Lee, can you state the your process from the start to the end?" "Of cause I can. What is really embarrassed is that just the second steps, we found the problem with an extremly simple problem.I laught,helaught. All in all, everything is good and I admire hime more.
