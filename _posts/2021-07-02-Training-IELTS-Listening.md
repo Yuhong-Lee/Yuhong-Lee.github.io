@@ -33,5 +33,34 @@ retired 退休的
 
 sticking  刺入
 
+trending
+
+diversity 多样性；差异
+
+breeds 物种
+
+Currently 现在的
+
+pattern 趋势，图案
+
+blossom 开花
+
+demonstration 示范
+
+authors 作者
+
+infest 感染
+
+varies 多重复合
+
+parasites 寄生虫
 
 investigate  调查
+
+
+pollinate 授粉
+
+allergies 过敏
+
+
+DSLR 单反 
