@@ -38,15 +38,13 @@ redirect_from:
 21. ~~invesment~~ investment
 22. fortune 财产
 23. concert 音乐会
-24. refund
-25. 22
-26. allowance 津贴
-27. subsidy 津贴
-28. ~~pention~~ pension 养老金
-29. saving
-30. stock 存货，股票
-31. prize 奖金
-32. pensioner 领退休金的人
-33. capital 首都，资金
-34. low income
-35. tax 税
+24. allowance 津贴
+25. subsidy 津贴
+26. ~~pention~~ pension 养老金
+27. saving
+28. stock 存货，股票
+29. prize 奖金
+30. pensioner 领退休金的人
+31. capital 首都，资金
+32. low income
+33. tax 税
